@@ -605,7 +605,7 @@ IT강국을 선도할 수 있는 창의력과 전문성을 갖춘 글로벌 컴�
 
 새로운소프트웨어개발을위한디자인중심의창의적 설계접근방법과아이디어 발상을위한 이론적프로세스를팀워크를통해 학습 한다.
 
-Wewilllearnthedesign-orientedcreativedesignapproachfornewsoftwaredevelopmentandthetheoreticalprocess for idea development throughteamwork.
+We will learn the design-oriented creative design approach for newsoftwaredevelopmentandthetheoreticalprocess for idea development throughteamwork.
 
 #### ∙ 웹/파이선프로그래밍 (Web/Python Programming)
 
@@ -679,13 +679,13 @@ ThiscourseintroducestheconceptsofopensourceSWanddiscussesimportanceofitsinvigora
 
 IT 기초이론과 최근의 연구동향 및 컴퓨터공학의 전문용어를 습득함으로써 논문 및 원서해석에 필요한 기초능력을 기른다. By acquiring the IT basic theory and recent research trends and terminology of computer engineering, learn to improve basic skills needed article and books.
 
-∙ 캡스톤디자인 1 (Capstone Design 1)
+#### ∙ 캡스톤디자인 1 (Capstone Design 1)
 
 이과목에서는급변하는컴퓨터,멀티미디어,인터넷등컴퓨터전분야에관련된새롭고다양한주제를일정소규모의학생들이 그룹을형성하여교수들과심도있게학습할수있는기회를제공한다.교과진행방법은관심주제에대한세미나,산업현장인턴 실습,실제프로젝트수행,연구논문작성등이다.이과목을효과적으로수행하기위해서학생들은학기초에관심분야에대한학업 계획서를 작성하여 관련 교수와 상담을 통해 학습 주제를 결정하도로 되어 있다.
 
 This course offers students an opportunityto study new and various subjectsrelatedto computer, multimedia, and Internettechnologiesasagroupwiththeir supervisor.Thecourseincludes seminar,industryinternship,project study, andresearchpaperwriting.Inordertoefficiently completethis course, studentsareadvisedtodeterminetheirown researchtopics by preparing their study plans and contacting their supervisor in the beginning ofthe semester.
 
-∙ 캡스톤디자인 2 (Capstone Design 2)
+#### ∙ 캡스톤디자인 2 (Capstone Design 2)
 
 이과목에서는급변하는컴퓨터,멀티미디어,인터넷등컴퓨터전분야에관련된새롭고다양한주제를일정소규모의학생들이 개인별로교수들과 심도있게학습할 수 있는 기회를제공한다.교과 진행방법은 관심 주제에대한 세미나,산업 현장 인턴실습, 실제프로젝트수행,연구논문작성등이다.캡스톤디자인1를수강한학생들이다음학기에수강하는과목으로캡스톤디자인1에
 
@@ -699,13 +699,13 @@ This course offers students an opportunityto study new and various subjectsrelat
 
 연속및이산신호와시스템의수학적표현기법,분석및신호합성에관한기본개념과변환기법을다룬다.Fourier변환,Z-변환, Laplace 변환 등을 기초로 한 신호와 시스템 분석 방법에 관한 기본이론 및 필터링, 변조 등의 응용 예를 강의한다. Signals and Systems provides basic theory for mathematical modeling and analysis of electrical circuits, communications, control,imageprocessing, and electromagnetics. Signals and systems are analyzedinthetime and frequency domains. This course covers basic continuous and discrete time signals, system properties, linear time invariant systems, convolution, continuous and discrete time Fourier analysis.
 
-∙ 문제해결 (Problem Solving)
+#### ∙ 문제해결 (Problem Solving)
 
 다양한유형의문제해결을위한기본이론들을알고리즘개발을통해습득한다.또한개발한알고리즘을컴퓨터프로그램으로구현 함으로써 프로그래밍 실력을 배양한다.
 
 This courseintroducesfundamentaltheoriesfor solving varioustypesofproblemsthroughalgorithmdevelopment.It also emphasizes how to implement the algorithms developed in computer programming languages.
 
-∙ 형식언어 및 컴파일러 (Formal Languages and Compiler)
+#### ∙ 형식언어 및 컴파일러 (Formal Languages and Compiler)
 
 전산학의근간을이루는형식언어에대한기본적인이해와컴파일러와의연관관계를배운다.구체적으로,언어의문법적표현과 분류,유한상태기계,push-down자동장치,정규언어,튜링기계,파싱기법의요소들을이해하고응용할수있는능력을키운다. Inthiscourse,elementaryknowledgeofformallanguagesonwhichcomputerscienceisbasedandtherelationofthe formal language and compiler concept are discussed. In detail, language grammars and expressions, finite state machines, push-down automata, regular language,turing machine, parsing methods are studied.
 
@@ -723,21 +723,21 @@ This course provides the basic concepts and the requirements of the multimedia s
 
 multimedia system and practical applications,followed bythe performing the practices.
 
-∙ 시스템분석 및 설계 (Systems Analysis and Design) 시스템 개발과정을 소개하며,소프트웨어 시스템분석 및 설계 시에확장성과 재사용을용이하게 하기 위한 구조적 방법과 객체 지향적 방법을 익힌다.
+#### ∙ 시스템분석 및 설계 (Systems Analysis and Design) 시스템 개발과정을 소개하며,소프트웨어 시스템분석 및 설계 시에확장성과 재사용을용이하게 하기 위한 구조적 방법과 객체 지향적 방법을 익힌다.
 
 This course introduces the system development processes and focuses on the structural and object-oriented methodologies in software system analysis and design to support scalability and reusability.
 
-∙ 프로그래밍언어구조론 (Structures of Programming Languages)
+#### ∙ 프로그래밍언어구조론 (Structures of Programming Languages)
 
 이과목은프로그래밍언어의기본적인개념을다루는데,1)다양한언어구조에대한설계문제들을토의하고,2)그런구조들을 일반적인 언어에서는 어떻게 설계 선택을 했는지 조사하며, 3) 설계 선택 대안들을 비교하는 내용으로 구성된다. This course treats the fundamental concepts of programming languages by 1) discussing the design issues of the variable language constructs, 2) examining the design choices for these constructs in some of the most common languages, and 3) critically comparing design alternatives.
 
-∙ SW스타트업비즈니스 (SW Start-Up Business)
+#### ∙ SW스타트업비즈니스 (SW Start-Up Business)
 
 실리콘벨리의수많은성공한창업가들이컴퓨터공학과출신으로이미컴퓨터공학은창업가들로하여금가장핵심적이고중요한기 술로부각되고있다.구글,마이크로소프트,샤오미등에서제시하는차세대기술에대해연구하고이러한기술을기반으로한모의 창업을 통해 졸업 후 사업가 역량을 배양한다.
 
 Many successful entrepreneurs major computer engineering from the Silicon Valley. Computer engineering has emerged as the most critical and important skills of entrepreneurs. This course researching on a next-generation technology proposed byGoogle,Microsoft andXiaomi. Students simulate a mock business basedonresearchresult and improve business skills needed atthe company after graduation.
 
-∙ SW스타트업프로젝트 (SW Start-Up Project)
+#### ∙ SW스타트업프로젝트 (SW Start-Up Project)
 
 산업사회가고도화되면서창업의비중이점차높아지고있는추세이다.오픈소스SW를기반으로창업아이템선정,사업기획,제품 샘플 개발까지의 일련의 과정을 포함한 모의창업을 연계하여 실제 창업 프로세스를 경험한다. As the industrial society becomes more sophisticated, the proportion of start-ups is gradually increasing. Based on
 
@@ -762,13 +762,15 @@ Artificial intelligence is divided into traditional Symbolic AI and neural netwo
 
 This courselearnshowto applymachinelearning anddeeplearningtechnologytopractical applications.The course allowsthe studentsto learn basic models and optimizationtechniques by participatingKaggle-based challenges and performing projects for practical applications.
 
-## ∙ 빅데이터프로그래밍 (Big Data Programming) 대량의정형또는비정형데이터의집합체인빅데이터의5V(규모,다양성,속도,정확성,가치)요소에대해학습하고,빅데이터로 부터 가치를 추출하고 결과를 분석하기 위한 하둡의 맵리듀싱에 대해 학습한다. Learn5Velements(Volume,Variety,Velocity,Veracity,Value)ofBigData,acollectionoflargequantitiesofstructured orunstructureddata,andlearnHadoopandMapReducingforextracting valuesfromBigDataandanalyzingresults.
+## ∙ 빅데이터프로그래밍 (Big Data Programming) 
+
+대량의 정형 또는 비정형데이터의집합체인빅데이터의5V(규모,다양성,속도,정확성,가치)요소에 대해 학습하고,빅데이터로 부터 가치를 추출하고 결과를 분석하기 위한 하둡의 맵리듀싱에 대해 학습한다. Learn5Velements(Volume,Variety,Velocity,Veracity,Value)ofBigData,acollectionoflargequantitiesofstructured orunstructureddata,andlearnHadoopandMapReducingforextracting valuesfromBigDataandanalyzingresults.
 
 #### ∙ 클라우드컴퓨팅 (Cloud Computing)
 
 클라우드 컴퓨팅의 개념을 이해하고 프로젝트를 진행한다. 가상화 기술(Virtual Machine)의 특징을 이해하고 IaaS, PaaS, SaaS 등의개발프로젝트를진행한다.아마존과구글의클라우드서비스활용방법과PaaS(Azure,Openshift,Cloudfoundry)를이용 한 클라우드 서비스의 개발 실습과 OpenStack을 통한 가상 자원의 프로비저닝 및 운영기술에 대한 실무를 배양한다. Understandtheconceptofcloudcomputingandproceedwiththeproject.Understandthefeaturesofvirtualmachine and develop projects such as IaaS, PaaS, SaaS. Learn how to use cloud service of Amazon and Google and cloud service development practiceusing PaaS(Azure,Openshift,Cloudfoundry) and cultivatepractical skill of provisioning and operating virtual resourcesthrough OpenStack.
 
-∙ 데이터센터프로그래밍 (Datacenter Programming)
+#### ∙ 데이터센터프로그래밍 (Datacenter Programming)
 
 데이터센터와서버프로그래밍에대한이론을이해하고실습을수행한다.대표적인기술로서클라우드컴퓨팅(OpenStack등),콘 테이너기술(Docker등),빅데이터분석(Spark,Hadoop등)에대해서이해하고,실습을통해서직접프로그램을개발하여본다. Understandthetheoryandpracticeofdatacenterand serverprogramming.Asarepresentativetechnology, students understand about cloud computing (OpenStack etc.), container technology (Docker etc.), big data analysis (Spark, Hadoop, etc.) and develop program directly by practice.
 
@@ -780,37 +782,37 @@ This courselearnshowto applymachinelearning anddeeplearningtechnologytopractical
 
 Inthis course, student canlearnonthekeytechnologyofinternetProtocol suchasTCP/IP.Inaddition,itintroduces themachinelearningalgorithms suchasSVM,CNN,RNN, etc.Also,thenetworkrelated applicationsusingmachine learning will be learned. Through project,the student can obtainthe designing and implementing capabilities of AI based internet application and IoT systems.
 
-∙ 정보보호 (Information Security)
+#### ∙ 정보보호 (Information Security)
 
 본과정에서는네트워크보안의기본개념과암호화알고리즘,인터넷보안메커니즘과무선망보안등에대하여다룬다.그리고국내 외 보안기술표준화동향 등에 대해서도 강의한다.
 
 Students learn about the basic concepts of network security, Internet security mechanism, and security for wireless networks through this course. In order to provide the opportunity for understanding the state-of-art security technology,this course also introduces the current domestic and international standardization status.
 
-∙ 모바일프로그래밍 (Mobile Programming)
+#### ∙ 모바일프로그래밍 (Mobile Programming)
 
 오픈소스자바프로그래밍개발환경에서모바일프로그래밍의기본개념을배우고여러응용프로그래밍을구현함으로서실제업 무에 적용 가능한 실무능력을 향상시키고, 최신 적용가능 라이브러리 및 테크닉에 대해 학습한다.
 
 ThiscoursedesignedforlearningafundamentalconceptofthemobileprogrammingbasedontheopensourceJAVA development environment and improving practical skills, and learn the latest applicable programming libraries and techniques.
 
-∙ 웹서비스프로그래밍 (Web Service Programming)
+#### ∙ 웹서비스프로그래밍 (Web Service Programming)
 
 본과목에서는HTML/CSS를기본으로하여javascript을이용한Node.js등과같은각종웹프레임워크를이용한웹서비스백엔드 및 프런트엔드를 개발하는 방법을 소개한다.
 
 This course introduce how to implement web service front-end and back-end using HTML/CSS, javascrip, and the diverse webframeworks for Node.js.
 
-∙ 블록체인 (Blockchain)
+#### ∙ 블록체인 (Blockchain)
 
 본강의에서는블록체인기술의기본원리,플랫폼,어플리케이션에 대한다양한 토픽들을다룬다.블록체인의어플리케이션으로서 암화화페 메커니즘과 그 비즈니스 어플리케이션 등에 대해 강의한다.
 
 Thislecture covers varioustopicsonbasicprinciples,platformsandapplicationofblockchaintechnology. Thelecture also deals with the mechanism of cryptocurrency and its business applications.
 
-∙ 리눅스시스템프로그래밍 (LINUX System Programming)
+#### ∙ 리눅스시스템프로그래밍 (LINUX System Programming)
 
 가장널리 사용되고 있는 운영체제 중의 하나인 LINUX 환경에서의 프로그램 개발 환경을 습득하여, UNIX 전문가로서의 계기를 제공한다.LINUX사용법및개발환경에서시작하여,fileI/O,file&directory,process&thread,signal,IPC,synchronization, socket 등의 고급 프로그래밍 기법을 LINUX system call을 직접 사용함으로써 실습한다.
 
 This courseprovides anopportunityfor a LINUX expert. First, variousdevelopmenttoolsinUNIX arepresented such asvi,make,gcc,gdb.Next,thiscourseintroducesvariousLINUXsystemcallsandgivesalotofprogrammingpractices on file I/O, file & directory, process & thread, signal, IPC, synchronization, and sockets.
 
-∙ IoT디지털시스템 (IoT Digital System)
+#### ∙ IoT디지털시스템 (IoT Digital System)
 
 소프트웨어와하드웨어를포함하는SoC(SystemonaChip)의기본설계개념과AlteraDE2board를사용구현방법을다룬다. 아울러 FPGA구현을 위한 Verilog-HDL 코팅방법과 실제적인 응용에 접근한 프로젝트들을 익힌다.
 
@@ -838,19 +840,21 @@ Part 2. This course introduce what isrobot soccer system as an application ofthe
 
 Thiscourseteacheshowdigitaltransformationisrealizedthroughtwokeyconcepts:theInternetofThings(IoT)and digitization. Tothis end, studentslearn about IoT networkingtechnologies andthe latestICTtechnologiesthat lead thefourthindustrialsociety.TheconceptofwhattheIoTis,whattheIoTdoes,andhowIoTdigitalizationaffectsthe fourth industrial society are discussed from technical points of view.
 
-∙ 영상처리 (Image Processing)
+#### ∙ 영상처리 (Image Processing)
 
 2차원신호인디지털영상신호의표현,영상신호처리의기본단계,영상신호처리시스템의요소,디지털영상의기초,푸리에변환, FFT, DCT를 포함한 영상변환, 영상신호의 향상, 및 영상신호의 복구에 대하여 강의한다.
 
 This course teaches representation of 2D digital image signal, basic processing steps of image signal, elements of image signal processing system, image transform including Fourier transform, FFT and DCT, enhancement and restoration of image signal.
 
-∙ 컴퓨터그래픽스 (Interactive Computer Graphics)
+#### ∙ 컴퓨터그래픽스 (Interactive Computer Graphics)
 
 2D와3D객체의생성과디스플레이를위한기본적인기술들을소개한다.주요강의내용은그래픽스를위한자료구조,그래픽프 로그래밍 언어, 기학학적 변환, shading, 가시화 등을 포함한다.
 
 Thiscourseintroducetechniquesfortheinteractivegenerationanddisplayoftwoandthreedimensionalobjects.The topics to be covered will include data structure for graphics, geometric transformation, shading, visualization, and languages for graphics.
 
-∙ 멀티미디어처리 (Multimedia Processing) 영상과 그래픽스, 그리고 비디오의 표현체계, 컬러체계, 비디오 코딩에 필요한 각종 알고리즘의 기본적이고 상세한 개념, 비디오 무손실/손실 압축 방법, JPEG, MPEG 등의 국제 표준 등의 멀티미디어 통신에 필요한 기본 알고리즘에 관한 연구를 수행한다. This course providesthe datarepresentation, color models ofthe image, graphics and video, and also providesthe basic anddetailed conceptsofthe algorithms,lossless andlossy video compression,theinternational standards such asJPEG and MPEGfor multimedia communications.
+#### ∙ 멀티미디어처리 (Multimedia Processing) 
+
+영상과 그래픽스, 그리고 비디오의 표현체계, 컬러체계, 비디오 코딩에 필요한 각종 알고리즘의 기본적이고 상세한 개념, 비디오 무손실/손실 압축 방법, JPEG, MPEG 등의 국제 표준 등의 멀티미디어 통신에 필요한 기본 알고리즘에 관한 연구를 수행한다. This course providesthe datarepresentation, color models ofthe image, graphics and video, and also providesthe basic anddetailed conceptsofthe algorithms,lossless andlossy video compression,theinternational standards such asJPEG and MPEGfor multimedia communications.
 
 #### ∙ 인간-컴퓨터상호작용 (Human-Computer Interaction)
 
@@ -864,7 +868,7 @@ This course aims at introducing basic principles and application examples of hum
 
 This course aimsto learn allthe steps required for UI/UX programming sequentially and applies it toreal interface implementation.First, studentswilllearnthetheoreticalbackgroundaboutthedefinitionofUI/UXandthenecessary factorstoprovidetheoptimaluserexperience,andconductapracticaltrainingonthedesignprocesstoachievethis. In addition, students will learn basic programming skills related to interface programming, and through the class project, the student goes through a process of learning all of the processesthemselves.
 
-∙ 컴퓨터비젼 (Computer Vision)
+#### ∙ 컴퓨터비젼 (Computer Vision)
 
 본과목은사람이시각정보를이용하여지능적인판단과행동을하는것과마찬가지로,컴퓨터(기계)도사람과같이시각정보를 획득,처리하고이를이용하여객체인식및행동인식과같은지능적인일을수행할수있도록하는최신연구분야를공부한다. 기초적인 영상 분석 및 기계 학습 방법들을 활용하여 Feature Extraction, Visual Tracking, Shape Matching, Pattern Detection,ObjectRecognition,GestureRecognition,SceneUnderstanding및3DReconstruction와같은세부연구분야 들을 공부한다.
 
@@ -876,11 +880,13 @@ Computer vision is an interdisciplinary research field that deals with how compu
 
 This courseaimsto carryoutfurtherprojectsbasedontopicsthatreflectthelatesttrendsintheindustry.Thelatest trends cover big data analysis, mobile and security, IoT, and smart content.
 
-∙ 최신기술콜로키움 1/2 (New Technology Colloquium 1/2) 본과목에서는유명회사의CTO를초빙하여관련분야의다양한주제에대한특강을진행한다.CTOTalkConcert를통해산업계 의 특징과 노하우 등을 간접적으로 학습한다.
+#### ∙ 최신기술콜로키움 1/2 (New Technology Colloquium 1/2) 
+
+본과목에서는유명회사의CTO를초빙하여관련분야의다양한주제에대한특강을진행한다.CTO Talk Concert를통해산업계 의 특징과 노하우 등을 간접적으로 학습한다.
 
 Inthiscourse,CTOswhoworkinfamouscompaniesareinvitedandgivealectureonvarioustopicsinrelatedfields. Through the CTO Talk Concert, students learn indirectly the characteristics and know-how of the industry.
 
-∙ 독립심화학습 1/2(컴퓨터공학과) (Individual In-depth Study 1/2)
+#### ∙ 독립심화학습 1/2(컴퓨터공학과) (Individual In-depth Study 1/2)
 
 논문 작성 및 제출, 특허 출원, 소프트웨어 도서 출간, 첨단 기술 백서 출간 등을 설계 및 진행
 
