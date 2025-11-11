@@ -1,0 +1,2 @@
+filename,module_name,module_params,execution_time,average_output_token,bleu,meteor,rouge,sem_score,is_best
+0.parquet,LlamaIndexLLM,"{'llm': 'upstage', 'model': 'solar-pro2'}",0.2854375553131103,611.18,1.9365483830976915,0.20878375630845666,0.19615576408455668,0.7226629275090026,True

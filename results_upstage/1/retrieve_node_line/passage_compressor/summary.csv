@@ -1,0 +1,2 @@
+filename,module_name,module_params,execution_time,passage_compressor_retrieval_token_f1,passage_compressor_retrieval_token_recall,passage_compressor_retrieval_token_precision,is_best
+0.parquet,PassCompressor,{},4.4198036193847655e-05,0.39319862161570895,0.3903312279814131,0.45038313319472034,True

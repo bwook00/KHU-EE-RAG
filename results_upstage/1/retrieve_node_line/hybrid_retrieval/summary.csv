@@ -1,0 +1,6 @@
+filename,module_name,module_params,execution_time,retrieval_f1,retrieval_recall,retrieval_precision,retrieval_ndcg,retrieval_map,retrieval_mrr,is_best
+0.parquet,HybridRRF,"{'top_k': 10, 'weight_range': (4, 80), 'weight': 20.0}",0.14092910289764404,0.20606060606060608,0.9,0.11799999999999997,0.6352586813602505,0.6174722222222222,0.6318333333333334,False
+1.parquet,HybridCC,"{'top_k': 10, 'normalize_method': 'mm', 'weight_range': (0.0, 1.0), 'test_weight_size': 101, 'weight': 0.75}",0.16969805717468261,0.20909090909090913,0.9,0.11999999999999997,0.6266399666790062,0.5840753968253968,0.6159126984126985,False
+2.parquet,HybridCC,"{'top_k': 10, 'normalize_method': 'dbsf', 'weight_range': (0.0, 1.0), 'test_weight_size': 101, 'weight': 0.65}",0.17082688331604004,0.2163636363636364,0.94,0.12399999999999999,0.6384176316492606,0.5909603174603175,0.6248015873015873,True
+3.parquet,HybridCC,"{'top_k': 10, 'normalize_method': 'z', 'weight_range': (0.0, 1.0), 'test_weight_size': 101, 'weight': 0.54}",0.17747270107269286,0.1987878787878788,0.86,0.11399999999999999,0.5979098476230966,0.5535079365079365,0.590047619047619,False
+4.parquet,HybridCC,"{'top_k': 10, 'normalize_method': 'tmm', 'weight_range': (0.0, 1.0), 'test_weight_size': 101, 'weight': 0.48}",0.17273759841918945,0.21333333333333335,0.94,0.122,0.6093942230964111,0.5699444444444445,0.5833015873015873,False
