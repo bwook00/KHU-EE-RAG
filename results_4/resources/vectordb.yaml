@@ -1,0 +1,8 @@
+vectordb:
+- client_type: persistent
+  collection_name: huggingface_multilingual_e5_large
+  db_type: chroma
+  embedding_batch: 256
+  embedding_model: huggingface_multilingual_e5_large
+  name: chroma_large
+  path: /Users/kimbwook/PycharmProjects/KHU-EE-RAG/results_4/resources/chroma

@@ -1,0 +1,4 @@
+filename,module_name,module_params,execution_time,passage_filter_retrieval_f1,passage_filter_retrieval_recall,passage_filter_retrieval_precision,is_best
+0.parquet,PassPassageFilter,{},4.0235519409179685e-05,0.41,0.76,0.2866666666666666,True
+1.parquet,ThresholdCutoff,{'threshold': 0.85},0.00011325836181640625,0.48,0.48,0.48,False
+2.parquet,PercentileCutoff,{'percentile': 0.6},6.329536437988282e-05,0.48,0.48,0.48,False

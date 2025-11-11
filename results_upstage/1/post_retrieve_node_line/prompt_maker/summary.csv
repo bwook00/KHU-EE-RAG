@@ -1,0 +1,2 @@
+filename,module_name,module_params,execution_time,average_prompt_token,is_best
+0.parquet,Fstring,"{'prompt': '경희대학교 학생들을 위한 챗봇입니다. 오직, 주어진 학칙만을 이용하여 질문에 따라 답하시오. 모르면 모른다고 대답하시오. 학칙: {retrieved_contents} \n\n 질문: {query} \n\n 답변:'}",4.449844360351562e-05,2323.66,True

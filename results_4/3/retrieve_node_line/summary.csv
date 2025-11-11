@@ -1,0 +1,8 @@
+node_type,best_module_filename,best_module_name,best_module_params,best_execution_time
+lexical_retrieval,0.parquet,BM25,{'top_k': 10},0.0015441608428955
+semantic_retrieval,0.parquet,VectorDB,"{'top_k': 10, 'vectordb': 'chroma_large'}",0.0511026048660278
+hybrid_retrieval,4.parquet,HybridCC,"{'top_k': 10, 'normalize_method': 'mm', 'weight_range': (0.0, 1.0), 'test_weight_size': 101, 'weight': 0.4}",0.1736479759216308
+passage_augmenter,1.parquet,PrevNextPassageAugmenter,"{'top_k': 5, 'embedding_model': 'huggingface_multilingual_e5_large', 'mode': 'next'}",0.9792699575424194
+passage_reranker,0.parquet,KoReranker,{'top_k': 3},1.5400221395492553
+passage_filter,1.parquet,ThresholdCutoff,{'threshold': 0.85},8.717536926269531e-05
+passage_compressor,0.parquet,PassCompressor,{},3.490447998046875e-05
